@@ -1,0 +1,2 @@
+nome_cliente = input('Pedro Santos:')
+print('Nome do cliente: ' nome_cliente)
